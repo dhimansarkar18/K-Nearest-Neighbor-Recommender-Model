@@ -18,7 +18,7 @@ Python Notebook:
  - I. Open the python notebook on google colab. 
  - II. Read the Movies Reccomendation Dataset
  - III. Run the Code 
- - IV. Generating 5 movies similar to the vovie "The Post"
+ - IV. Generating 5 movies similar to the movie "The Post"
 							
 # Procedures
 
